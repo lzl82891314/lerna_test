@@ -1,5 +1,5 @@
 {
-  "name": "module-0",
+  "name": "@lzl82891314/module-0",
   "version": "0.0.2",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "d579abe6871dc16db4eb6a60b799b3deff83a9f8"
 }
